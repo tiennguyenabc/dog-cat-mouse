@@ -9,4 +9,4 @@ dog.eat(tom);
 
 let mickey = new Mouse();
 tom.eat(mickey);
-console.log(dog);
+console.log("Hello ", dog);
